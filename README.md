@@ -6,10 +6,7 @@
 - 🌱 Aspring web developer
 - 🔭 Expanding my knowledge on React
 - 📫 Connect with me on linkedin! 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/noman-710"
+
 <!--
 **nali556/nali556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
