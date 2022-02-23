@@ -6,7 +6,7 @@
 - 🔭 Expanding my knowledge on React!
 - 🎮 I love to play story and competitive games.
 - 🏀 Played basketball and football, and recently started weightlifting. 🏋️‍♂️
-📫 Connect with me on linkedin!
+### 📫 Connect with me on LinkedIn!
 [![LinkedIn](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/noman-710/)
 
 ##
