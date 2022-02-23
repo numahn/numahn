@@ -1,7 +1,5 @@
 # Hello there! 👋
-<div align="center">
 ![Nomans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nali556&theme=dark&show_icons=true)
-</div>
 - 👨‍🎓 Undergraduate student in CUNY - College of Staten Island
 - 🌱 Aspring web developer
 - 🔭 Expanding my knowledge on React
