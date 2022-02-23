@@ -6,7 +6,7 @@
 - 🌱 Aspring web developer
 - 🔭 Expanding my knowledge on React
 - 📫 Connect with me on linkedin! 
-[![LinkedIn](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/noman-710/)
+[![LinkedIn](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png | width=5%)](https://www.linkedin.com/in/noman-710/)
 ##
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nali556&theme=dark&layout=compact&card_width=445&langs_count=10)
 <!--
