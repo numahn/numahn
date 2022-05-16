@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## About Me 🥸
+## About Me
 - 👨‍🎓 Undergraduate student in CUNY - College of Staten Island.
 - 🌱 Aspring web developer.
 - 🔭 Expanding my knowledge on React!
