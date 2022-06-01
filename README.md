@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 ## About Me
 - 👨‍🎓 Undergraduate student in CUNY - College of Staten Island.
