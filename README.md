@@ -3,7 +3,7 @@
 ## About Me
 - 👨‍🎓 Undergraduate student in CUNY - College of Staten Island.
 - 🌱 Aspring software engineer.
-- 🔭 Expanding my knowledge in Full Stack Development!
+- 🔭 Expanding my knowledge in full stack development!
 - 🎮 I love to play story-rich and competitive games.
 - 🏀 Played basketball and football, and recently started weightlifting. 🏋️‍♂️
 ### 📫 Connect with me on LinkedIn!
