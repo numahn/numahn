@@ -5,8 +5,8 @@
 - 🌱 Aspring software engineer.
 - 🔭 Expanding my knowledge in full stack development!
 - 🎮 I love to play story-rich and competitive games.
-- 🏋️‍♂️ Amateur weightlifter.
-- Currently working on: TechNotes (https://github.com/numahn/TechNotesFrontend)
+- 💪 Amateur weightlifter.
+- 👷‍ Currently working on: TechNotes (https://github.com/numahn/TechNotesFrontend)
 ### 📫 Connect with me on LinkedIn!
 [![LinkedIn](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/noman-710/)
 ##
