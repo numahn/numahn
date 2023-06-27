@@ -1,8 +1,8 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## About Me
-- 👨‍🎓 Undergraduate student in CUNY - College of Staten Island.
-- 🌱 Aspring software engineer.
+- 👨‍🎓 Graduated from CUNY - College of Staten Island.
+- 🌱 Budding software engineer.
 - 🔭 Expanding my knowledge in full stack development!
 - 🎮 I love to play story-rich and competitive games.
 - 💪 Amateur weightlifter.
