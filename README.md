@@ -6,7 +6,7 @@
 - 🔭 Expanding my knowledge in full stack development!
 - 🎮 I love to play story-rich and competitive games.
 - 💪 Amateur weightlifter.
-- 👷‍ Currently working on: Python Chatbot
+- 👷‍ Currently working on: Personal Porfolio
 ### 📫 Connect with me on LinkedIn!
 [![LinkedIn](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/noman-710/)
 ##
