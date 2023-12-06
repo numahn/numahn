@@ -2,7 +2,7 @@
 
 ## About Me
 - 👨‍🎓 Graduated from CUNY - College of Staten Island.
-- 🌱 Budding software engineer, network engineer.
+- 🌱 Budding software engineer and network engineer.
 - 🔭 Expanding my knowledge in full stack development!
 - 🎮 I love to play story-rich and competitive games.
 - 💪 Amateur weightlifter.
