@@ -4,7 +4,7 @@
 - 👨‍🎓 Graduated from CUNY - College of Staten Island.
 - 🌱 Budding software engineer and network engineer.
 - 🔭 Expanding my knowledge in full stack development!
-- 🎮 I love to play story-rich and competitive games.
+- 🎮 Tech Stack: JavaScript/TypeScript, React.js, Next.js, Node.js
 - 💪 Amateur weightlifter.
 - 👷‍ Currently working on: Deploying Personal Porfolio
 ### 📫 Connect with me on LinkedIn!
